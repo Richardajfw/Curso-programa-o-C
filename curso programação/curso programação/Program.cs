@@ -7,8 +7,14 @@ partial class Program
     {
         //Aula1 aula1 = new Aula1();
 
-        aula2 aula2 = new aula2();
-        aula2.valorpar();
+       // aula2 aula2 = new aula2();
+       // aula2.Avaliacao();
+
+        Aula3 aula3 = new Aula3();
+        aula3.CategoraIdade();
+
+
+
 
 
     }
